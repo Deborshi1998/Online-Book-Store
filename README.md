@@ -2,11 +2,11 @@
 An online ecommerce website build for books. With Sperate backend and Frontend.
 
 
-##Backend: Python Django. And SQlite Database.
+## Backend: Python Django. And SQlite Database.
 
-##Frontend: Reactjs and Bootstrap
+## Frontend: Reactjs and Bootstrap
 
-##MiddleWare: Django-rest-framework.
+## MiddleWare: Django-rest-framework.
 
 # The backend django database admin page
 ![GitHub Logo](/c.PNG)
